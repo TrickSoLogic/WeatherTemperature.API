@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "j2WzYi8dmnNtYIAJtS7kMovTFVFfa0qThCC97tC/8GI=",
+  "Source": "WeatherTemperature.API",
+  "BasePath": "_content/WeatherTemperature.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
